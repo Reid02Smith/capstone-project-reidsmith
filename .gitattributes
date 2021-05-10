@@ -1,0 +1,2 @@
+Desktop.wasm.code.unityweb filter=lfs diff=lfs merge=lfs -text
+Desktop.data.unityweb filter=lfs diff=lfs merge=lfs -text
